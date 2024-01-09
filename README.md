@@ -1,2 +1,2 @@
 # Java_Coding_programs
-This repository is above coding programs in Java.
+This repository is about basic coding programs in Java.
